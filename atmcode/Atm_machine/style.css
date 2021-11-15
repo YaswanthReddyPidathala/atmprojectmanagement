@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+}
+.heading{
+    background-color: blue;
+}
+ body{
+    background-color:azure ;
+    background-repeat: no-repeat;
+    /* background-position: center;
+    background-position-x: center;
+    background-position-y: 10cm; */
+    text-align: center;
+} 
+.card_no{ 
+    padding-top: 3cm;
+    font-size: large ;
+    font-weight: bold;
+}
+
+button:hover
+{
+    background-color: chartreuse;
+}
+
+ul li {
+    padding:10px;
+}
